@@ -1,4 +1,4 @@
-module github.com/barasher/go-exiftool
+module github.com/kjeldgaard/go-exiftool
 
 go 1.13
 
